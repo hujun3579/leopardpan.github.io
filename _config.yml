@@ -1,11 +1,11 @@
 # Basic
 title: 虾膏先生
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+subtitle: 个人博客
+description: 欢迎来到我的个人博客
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 思想动态 / 日常记录
 url: "http://leopardpan.cn"
 
 # 博客是否自动生成目录，false为不生成
@@ -14,7 +14,7 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    disqus: 虾膏先生
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
@@ -25,7 +25,7 @@ social:
     # juejin: xxx
     jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 281815432@qq.com
 
 
 # 百度统计 
@@ -44,7 +44,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/hujun3579/hujun3579.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
